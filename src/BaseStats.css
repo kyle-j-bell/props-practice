@@ -1,0 +1,20 @@
+.base-stats {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sp-stats {
+  border-radius: 10px;
+  align-self: center;
+  width: fit-content;
+  padding: 10px;
+  margin: 10px;
+  background: #d60340;
+  color: white;
+}
+
+.base-stats-table {
+  width: fit-content;
+  align-self: center;
+}
